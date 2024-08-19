@@ -1,3 +1,5 @@
+# Gerador de Senhas
+
 import os
 import random
 cls = os.system('cls')

@@ -1,4 +1,4 @@
-# Calaculadora de Gorjetas
+# Calaculadora de Gorjetas.
 print("Bem vindo a Calculadora de Gorjetas \n")
 valor_da_conta = float(input("Informe o total da conta: "))
 percentual_gorjeta = int(input("Quantos '%' de gorjeta você quer doar? 10, 12 ou 15?: "))

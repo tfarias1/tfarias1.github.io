@@ -1,3 +1,5 @@
+# Papel Pedra Tesoura.
+
 import random
 import os
 

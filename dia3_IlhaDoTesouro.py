@@ -1,4 +1,4 @@
-# Projeto - Ilha do Tesouro
+# Projeto - Ilha do Tesouro.
 
 print('''
       

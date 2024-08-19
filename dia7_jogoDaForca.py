@@ -1,3 +1,5 @@
+# Jogo da Foca
+
 import os
 import random
 
